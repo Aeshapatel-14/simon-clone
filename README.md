@@ -24,10 +24,7 @@ An interactive memory-based Simon Game built using HTML, CSS, and JavaScript.
 
 ## Project Preview
 
-
-)
-
-
+Simon Game Preview.png
 
 ---
 
